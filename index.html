@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>Analiza emocji</title>
+    <script defer type="text/javascript" src="./js/face-api.min.js"></script>
+    <script defer src="app.js" charset="utf-8"></script>
+    <link rel="stylesheet" href="./styles/style.css" />
+  </head>
+  <body>
+    <div class="container" id="peer-container">
+      <div class="item">
+        <label>Peer A</label>
+        <textarea id="peerA"></textarea>
+      </div>
+      <div class="item">
+        <label>Peer B</label>
+        <textarea id="peerB"></textarea>
+      </div>
+      <div class="item">
+        <button id="connect">Połącz</button>
+      </div>
+    </div>
+    <div class="container" id="video-container">
+      <video id="camera" width="500" height="375" autoplay></video>
+    </div>
+    <div class="container" id="message-container">
+      <div class="item">
+        <label>Analiza publiczności</label>
+        <div id="aud-message"></div>
+      </div>
+      <div class="item">
+        <label>Analiza prezentera</label>
+        <div id="pres-message"></div>
+      </div>
+      <div class="item"></div>
+    </div>
+  </body>
+</html>

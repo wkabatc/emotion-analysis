@@ -1,0 +1,59 @@
+Średnie prawdopodobieństwa występowania emocji:
+
+neutralności:   0.4214949203809235
+radości:        0.4605852819295251
+smutku:         0.11253618755280509
+złości:         0.002019877028739847
+strachu:        0.000033531135043747474
+obrzydzenia:    0.0005316222964570766
+zaskoczenia:    0.002798571941105039
+
+Komunikaty: 
+"Wzbudzasz pozytywne emocje, ponieważ wśród publiczności dominuje radość na poziomie 46.0585%.;positive", "Zaskoczenie Twojej publiczności jest na niskim poziomie 0.2799%. Skup się na innowacyjności Twojego rozwiązania.;negative"
+
+Liczba przeanalizowanych twarzy: 16
+
+Średnie prawdopodobieństwa występowania emocji:
+
+neutralności:   0.29500464955481853
+radości:        0.5138347024880608
+smutku:         0.12922151403659476
+złości:         0.016164670796604084
+strachu:        0.00240638617664381
+obrzydzenia:    0.0018140549757870161
+zaskoczenia:    0.04155403174827797
+
+Komunikaty: 
+"Wzbudzasz pozytywne emocje, ponieważ wśród publiczności dominuje radość na poziomie 51.3835%.;positive", "Zaskoczenie Twojej publiczności jest na niskim poziomie 4.1554%. Skup się na innowacyjności Twojego rozwiązania.;negative"
+
+Liczba przeanalizowanych twarzy: 18
+
+Średnie prawdopodobieństwa występowania emocji:
+
+neutralności:   0.18605402222052167
+radości:        0.6781709046568721
+smutku:         0.1245041762426847
+złości:         0.009299945370564977
+strachu:        0.0000617311749116212
+obrzydzenia:    0.0011312147409931138
+zaskoczenia:    0.000778000921456871
+
+Komunikaty: 
+"Wzbudzasz pozytywne emocje, ponieważ wśród publiczności dominuje radość na poziomie 67.8171%.;positive", "Zaskoczenie Twojej publiczności jest na niskim poziomie 0.0778%. Skup się na innowacyjności Twojego rozwiązania.;negative"
+
+Liczba przeanalizowanych twarzy: 20
+
+Średnie prawdopodobieństwa występowania emocji:
+
+neutralności:   0.07768674555431784
+radości:        0.8655567638292585
+smutku:         0.05031028885291187
+złości:         0.001960130579138645
+strachu:        0.000009274110449910368
+obrzydzenia:    0.0001650335490019871
+zaskoczenia:    0.004311780069051921
+
+Komunikaty: 
+"Dobrze Ci idzie, ponieważ Twoja prezentacja wzbudza radość wśród publiczności na poziomie 86.5557%;positive", "Wzbudzasz pozytywne emocje, ponieważ wśród publiczności dominuje radość na poziomie 86.5557%.;positive", "Zaskoczenie Twojej publiczności jest na niskim poziomie 0.4312%. Skup się na innowacyjności Twojego rozwiązania.;negative"
+
+Liczba przeanalizowanych twarzy: 23
